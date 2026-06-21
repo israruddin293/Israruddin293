@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Israr ud din
+🚀 **DevOps Engineer **
 
-🚀 **DevOps Engineer | Cloud Enthusiast | Automation Lover**
-
-I'm a passionate DevOps engineer with a focus on **cloud infrastructure**, **CI/CD**, and **container orchestration**. I love turning complex deployments into seamless, automated pipelines. I’ve worked with tools like Docker, Kubernetes, Terraform, GitLab CI/CD, and AWS to deliver scalable and efficient solutions.
+I'm a DevOps Engineer with over a year of hands-on experience in **cloud infrastructure**, **CI/CD**, and **container orchestration**. I love turning complex deployments into seamless, automated pipelines. I've worked with tools like Docker, Kubernetes, Terraform, GitLab CI/CD, and AWS to deliver scalable and efficient solutions and I'm currently working full-time as a DevOps Engineer, handling deployments and operations for live production apps.
 
 ---
 
@@ -30,6 +29,16 @@ I'm a passionate DevOps engineer with a focus on **cloud infrastructure**, **CI/
 
 ---
 
+## 💼 Current Work
+
+### 🔹 Mysudani App
+Handling DevOps operations for this production application
+
+### 🔹 Simosa Jazz World
+Managing DevOps responsibilities including containerized deployments, CI/CD pipelines, and ongoing operational maintenance for this live app.  
+
+---
+
 ## 💼 Featured Projects
 
 ### 🔹 [Scalable Node.js on Kubernetes](https://github.com/Israruddin293/scalable-nodejs-k8s)
@@ -51,14 +60,12 @@ Debugged and deployed a food delivery app with Nginx, Auto Scaling, and Route 53
 ---
 
 ## 📊 GitHub Stats
-
 ![Israr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Israruddin293&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israruddin293&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israr-ud-din-237b8a26b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Israruddin293)
 📧 uisrar293@gmail.com  
